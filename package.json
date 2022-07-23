@@ -3,7 +3,7 @@
   "version": "9.0.1",
   "description": "@nestjs with firebase",
   "license": "MIT",
-  "homepage": "https://github.com/g59/nestjs-plugins/tree/main/packages/nestjs-firebase",
+  "homepage": "https://github.com/braunnicholas/nestjs-firebase",
   "main": "lib/index.js",
   "scripts": {
     "build": "npm run clean && tsc -p .",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/braunnicholas/nestjs-plugins.git#main"
+    "url": "git+https://github.com/braunnicholas/nestjs-firebase.git#main"
   },
   "author": "g59",
   "bugs": {
-    "url": "https://github.com/braunnicholas/nestjs-plugins/issues"
+    "url": "https://github.com/braunnicholas/nestjs-firebase/issues"
   }
 }
